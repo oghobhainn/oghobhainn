@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [![Github][1.2]][1] (no joke), or on [![LinkedIn][3.2]][3] (not me for the moment.
+You can find me on [![Github][1.2]][1] (no joke).
 
 <!-- Icons -->
 
@@ -26,5 +26,5 @@ You can find me on [![Github][1.2]][1] (no joke), or on [![LinkedIn][3.2]][3] (n
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://tryhackme.com/p/oghobhainn
 [2]: https://www.linkedin.com/in/heinz-martin/
