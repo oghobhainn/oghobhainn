@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
+You can find me on [TryHackMe](https://tryhackme.com/p/oghobhainn) learning some cybersecurity skills !
+
 You can find me on [![Github][1.2]][1] (no joke).
 
 <!-- Icons -->
