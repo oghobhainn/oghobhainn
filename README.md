@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <!-- Actual text -->
 
 You can find me on [TryHackMe](https://tryhackme.com/p/oghobhainn) learning some cybersecurity skills !
+Also on [HackTheBox](https://www.hackthebox.eu/home/users/profile/251307) (completely new to the site).
+And [RootMe](https://www.root-me.org/oghob?lang=fr), total newbie.
