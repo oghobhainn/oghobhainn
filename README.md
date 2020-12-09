@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 You can find me on [TryHackMe](https://tryhackme.com/p/oghobhainn) learning some cybersecurity skills !
 <!--<script src="https://tryhackme.com/badge/249466"></script>-->
-![thm-badge](https://tryhackme-badges.s3.amazonaws.com/oghobhainn.png)
+<!--![thm-badge](https://tryhackme-badges.s3.amazonaws.com/oghobhainn.png)-->
 
 Also on [HackTheBox](https://www.hackthebox.eu/home/users/profile/251307) (completely new to the site).
 
