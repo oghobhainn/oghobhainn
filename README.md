@@ -26,3 +26,5 @@ Also on [HackTheBox](https://www.hackthebox.eu/home/users/profile/251307) (compl
 And [RootMe](https://www.root-me.org/oghob?lang=fr), total newbie.
 
 [CodeForces](https://codeforces.com/profile/oghob).
+
+[CodinGames](https://www.codingame.com/profile/d605cd5eb79059ff310558c1a1594a032964673)
