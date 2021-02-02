@@ -21,10 +21,10 @@ You can find me on [TryHackMe](https://tryhackme.com/p/oghobhainn) learning some
 <!--<script src="https://tryhackme.com/badge/249466"></script>-->
 <!--![thm-badge](https://tryhackme-badges.s3.amazonaws.com/oghobhainn.png)-->
 
-Also on [HackTheBox](https://www.hackthebox.eu/home/users/profile/251307) (completely new to the site).
+<!--Also on [HackTheBox](https://www.hackthebox.eu/home/users/profile/251307) (completely new to the site).
 
 And [RootMe](https://www.root-me.org/oghob?lang=fr), total newbie.
 
-[CodeForces](https://codeforces.com/profile/oghob).
+[CodeForces](https://codeforces.com/profile/oghob).-->
 
 [CodinGames](https://www.codingame.com/profile/d605cd5eb79059ff310558c1a1594a032964673)
