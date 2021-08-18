@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [TryHackMe](https://tryhackme.com/p/oghobhainn) learning some cybersecurity skills !
+<!-- You can find me on [TryHackMe](https://tryhackme.com/p/oghobhainn) learning some cybersecurity skills ! -->
 <!--<script src="https://tryhackme.com/badge/249466"></script>-->
 <!--![thm-badge](https://tryhackme-badges.s3.amazonaws.com/oghobhainn.png)-->
 
@@ -27,4 +27,4 @@ And [RootMe](https://www.root-me.org/oghob?lang=fr), total newbie.
 
 [CodeForces](https://codeforces.com/profile/oghob).-->
 
-[CodinGames](https://www.codingame.com/profile/d605cd5eb79059ff310558c1a1594a032964673)
+<!-- [CodinGames](https://www.codingame.com/profile/d605cd5eb79059ff310558c1a1594a032964673) -->
